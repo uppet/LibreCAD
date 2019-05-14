@@ -40,7 +40,7 @@ class QVariant;
 namespace Colors
 {
     const QString snap_indicator   = "#FFC200";
-    const QString background       = "Black";
+    const QString background       = "#314f4f";
     const QString grid             = "Gray";
     const QString meta_grid        = "#404040";
     const QString select           = "#A54747";
